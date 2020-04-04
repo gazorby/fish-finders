@@ -17,7 +17,7 @@ fisher add Gazorby/fish-finders
 | fabbr        | Fuzzy search fish abbreviations |
 | fbranch      | Fuzzy search git branches |
 | fenv         | Fuzzy search environment variables |
-| fif [regex]  | Fuzzy search regex in files using [rg](https://github.com/BurntSushi/ripgrep) |
+| fif [regex]  | Fuzzy search pattern in files using [rg](https://github.com/BurntSushi/ripgrep) and [highlight](https://linux.die.net/man/1/highlight) |
 | fkill        | Fuzzy search a process to kill |
 | fport        | Fuzzy search a listening port |
 | fssh         | Fuzzy search an ssh host |
