@@ -6,6 +6,7 @@ Handy shortcuts making use of the awesome [fzf fuzzy finder](https://github.com/
 
 ⚠️ **requirement :** You need [fzf](https://github.com/junegunn/fzf) for this plugin to work
 
+Using [fisher](https://github.com/jorgebucaran/fisher) :
 ```console
 fisher add Gazorby/fish-finders
 ```
